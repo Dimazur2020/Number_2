@@ -20,16 +20,7 @@ Console.WriteLine($"New version of a number {num} is {result}");
 
  // Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 /*
- Console.Write("Введи число: ");
-int number = Convert.ToInt32(Console.ReadLine());
-string numberText = Convert.ToString(number);
-if (numberText.Length > 2){
-  Console.WriteLine("третья цифра -> " + numberText[2]);
-}
-else {
-  Console.WriteLine("-> третьей цифры нет");
-}
-*/
+
 
 Console.WriteLine("Version 2");
 
@@ -46,7 +37,7 @@ Console.WriteLine("Третьей цифры нет.");
 }
 // Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 
-/*
+
 Console.Write("Введи цифру, обозначающую день недели: ");
 int dayNumber = Convert.ToInt32(Console.ReadLine());
 
